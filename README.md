@@ -41,7 +41,7 @@ The data includes 100 observations and the following variables:
 2. *Histogram and Plot:* 
 ![Viz2](./img/viz2.png) <br />
 2. *Scatterplot:* 
-![Scatterplot](./img/scatterplot.png) <br />
+![Scatterplot](./img/scatterplot.PNG) <br />
 3. *Highest Rated TV Shows:*
 ![HighestRated](./img/highestrated.png) <br />
 4. *Lowest Rated TV Shows:*

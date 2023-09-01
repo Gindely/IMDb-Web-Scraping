@@ -19,7 +19,7 @@ The data includes 100 observations and the following variables:
 <br>
 *Rank:* Position held by popularity 
 <br>
-*Title:* Name of TV shoe 
+*Title:* Name of TV show
 <br>
 *Start Year:* Year the TV show was released 
 <br>
@@ -27,5 +27,4 @@ The data includes 100 observations and the following variables:
 <br>
 *Number of Episodes:* Number of episodes in the Series 
 <br>
-*Content Rating:* Rating for suitability to target audience 
-![Dataview](.img/dataview.png)
+*Content Rating:* Rating for suitability to target audience

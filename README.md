@@ -31,10 +31,7 @@ The data includes 100 observations and the following variables:
 *Content Rating:* Rating for suitability to target audience
 ![Dataview](./img/dataview.png)
 ## Methodology
-1. *Import Data:* Inspected the IMDb website to access the html code in order determine the location for the variables needed for analysis. A for loop was then created in insert the data into lists and then to a dataframe. Data values that were missing in the Rating and Content Rating column were filled with ‘Not Available’ and ‘Not Rated’ respectively.
-<br />
+1. *Import Data:* Inspected the IMDb website to access the html code in order determine the location for the variables needed for analysis. A for loop was then created in insert the data into lists and then to a dataframe. Data values that were missing in the Rating and Content Rating column were filled with ‘Not Available’ and ‘Not Rated’ respectively. <br />
 ## Data Overview
-1. *Data Understanding and Data Cleaning:* Length of the data frame and types of the variables were determined to assure that data was imported correctly. Numeric values that were stored as object were converted. After the conversion, 2 values in the Rating column were converted to NaN. Since only 2 of 100 ratings were “missing”, the mean rating was used to fill the missing values.
-<br />
-![Describe](./img/describe.png)
-<br />
+1. *Data Understanding and Data Cleaning:* Length of the data frame and types of the variables were determined to assure that data was imported correctly. Numeric values that were stored as object were converted. After the conversion, 2 values in the Rating column were converted to NaN. Since only 2 of 100 ratings were “missing”, the mean rating was used to fill the missing values. <br />
+![Describe](./img/describe.png) <br />

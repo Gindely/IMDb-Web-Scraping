@@ -28,4 +28,4 @@ The data includes 100 observations and the following variables:
 *Number of Episodes:* Number of episodes in the Series 
 <br>
 *Content Rating:* Rating for suitability to target audience 
-![Dataview]( /Users/gindelyduran/Desktop/dataview.png)
+![Dataview](.img/dataview.png)

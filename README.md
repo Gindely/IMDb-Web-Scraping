@@ -36,13 +36,13 @@ The data includes 100 observations and the following variables:
 ![Describe](./img/describe.png)
 ![Groupby](./img/groupby.png) <br />
 ## Exploratory Data Analysis
-1. *Box Plot and Distribution Plot:* 
+1. *Box Plot and Distribution Plot:* A box plot and a distribution plot was used to examine the distribution of Ratings. The distribution of ratings is slightly left skewed and 4 ouliers are identified in the box plot. The 4 outliers have a lower rating compared to the ratings in the dataset.
 ![Viz1](./img/viz1.png) <br />
-2. *Histogram and Plot:* 
+2. *Histogram and Bar Plot:* A histogram and bar plot were used to visualize the frequency of TV Shows by start year and content rating. The majority of the top 100 TV shows started in 2019 and above and have a content rating of TV-MA.
 ![Viz2](./img/viz2.png) <br />
-2. *Scatterplot:* 
+2. *Scatterplot:* Examined the relationship between the number of episodes and ratings. The scatterplot does not show a correlation between the two variables but a clear outlier is shown in the plot. The number 40 ranked show, "One Piece", has a high rating at 8.9 and a very high number of episodes at 1081.
 ![Scatterplot](./img/scatterplot.PNG) <br />
-3. *Highest Rated TV Shows:*
+3. *Highest Rated TV Shows:* TV shows with a star rating of 8.5 and above.
 ![HighestRated](./img/highestrated.png) <br />
-4. *Lowest Rated TV Shows:*
+4. *Lowest Rated TV Shows:* TV shows with a star rating of below an 8.
 ![LowestRated](./img/lowestrated.png) <br />

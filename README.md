@@ -9,7 +9,7 @@ Web Scraping and EDA Project
 * [Data Overview](#data-overview)
 * [Exploratory Data Analysis](#exploratory-data-analysis)
 ## Introduction
-Web Scraping the IMDb website for the Top 100 most popular TV shows today.
+Scraping the IMDb website for the Top 100 most popular TV shows today.
 ## Technologies
 Python
 ## Goal

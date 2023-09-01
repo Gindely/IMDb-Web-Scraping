@@ -1,5 +1,5 @@
 # IMDb-Web-Scraping
-Web Scraping and Visualization Project
+Web Scraping and EDA Project
 ## Table of contents
 * [Introduction](#introduction)
 * [Technologies](#technologies)

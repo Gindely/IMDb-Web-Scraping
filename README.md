@@ -1,5 +1,5 @@
 # IMDb-Web-Scraping
-Web Scraping and EDA Project
+Web Scraping and EDA Project for Top 100 TV Shows
 ## Table of contents
 * [Introduction](#introduction)
 * [Technologies](#technologies)

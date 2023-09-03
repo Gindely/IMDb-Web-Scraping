@@ -13,6 +13,9 @@ Web Scraping and EDA Project for Top 100 TV Shows
 ## Introduction
 Scraping the IMDb website for the Top 100 most popular TV shows today.
 
+Source:
+[IMDb-Top-100](https://www.imdb.com/chart/tvmeter/)
+
 ## Technologies
 Python
 
